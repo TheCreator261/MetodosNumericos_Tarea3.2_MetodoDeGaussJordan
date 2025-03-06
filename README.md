@@ -1,0 +1,1 @@
+# MetodosNumericos_Tarea3.2_MetodoDeGaussJordan
